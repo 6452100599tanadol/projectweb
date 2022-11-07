@@ -1,3 +1,9 @@
+.container2 {
+  padding: 4% 10%;
+}
+#sec2{
+background-color: white;
+}
 #title{
   background-color: #c6eccf;
   color: black;
@@ -5,11 +11,17 @@
 
 h1 {
   font-family: 'Mitr', sans-serif;
-  font-size: 4.5rem;
-  line-height: 1.5;
-  font-weight: medium;
-}
+  font-size: 3.5rem;
+  color: green;
 
+
+}
+h2 {
+font-family: 'Raleway', sans-serif !important;
+  font-size: 2.5rem;
+
+
+}
 .container-fluid {
   padding: 4% 10%;
 }
@@ -22,7 +34,7 @@ h1 {
 
 .navbar-brand {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 2.5rem;
+  font-size: 4.5rem;
   font-weight:bold;
 
 }
@@ -33,7 +45,7 @@ h1 {
 
 .nav-link {
   font-size: 2.5rem;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Mitr', sans-serif;
   color: black;
 }
 
@@ -49,5 +61,33 @@ h1 {
 .title-image{
   margin-left: 5%;
   width: 100%;
-  transform: rotate(5deg);
+  transform: rotate(25deg);
+}
+.bodyimg
+{
+  transform: rotate(0deg);
+  width: 100%;
+  margin-left: 5%;
+
+
+
+}
+h3{
+  font-family: 'Mitr', sans-serif;
+  font-size: 3.5rem;
+  color: black;
+
+
+}
+
+ul{
+  font-family: 'Mitr', sans-serif;
+  color: green;
+  font-size: 2.0rem;
+}
+.NANI{
+font-family: 'Mitr', sans-serif;
+color: green;
+font-size: 2.0rem;
+display: flex;
 }
